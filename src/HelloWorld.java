@@ -7,6 +7,9 @@ public class HelloWorld {
 		
 		// Here is some new code
 		int i = 5;
+		
+		// This is the code fix...
+		i++;
 	}
 
 }
